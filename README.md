@@ -28,3 +28,8 @@
 - Pandas
 - Matplotlib
 
+## 📊 Resultado :
+
+![imagem](Analise.01.JPG)
+ ![imagem](https://github.com/DeboraSouza277/Web_Scraping_Python/blob/main/Analise.02.JPG)
+  
